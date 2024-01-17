@@ -1,0 +1,93 @@
+body{
+    background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, rgb(89, 206, 216), rgb(9, 110, 31));
+  background-image: url("image.jpg");
+ 
+
+
+/* Full height */
+height: 100%;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+
+
+
+
+input{
+    background-color: white;
+    margin-top: 60px;
+    font-size: 20px;
+    position: relative;
+    margin-left: 35.5%;
+    margin-right: auto ;
+    text-align: center;
+    border-radius: 0.3cm;
+    height: 40px;
+    width: 500px;
+}
+
+
+.one-line{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: #2aa700;
+    margin-top: 31px;  
+    font-size: 35px;
+    flex-shrink: 0;
+    color: #000;
+font-family: Bilbo Swash Caps;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.message{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding-top: 40px;
+}
+
+button {
+    background-color: #2aa700; /* Green */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 180px;
+    height: 45px;
+    margin-top: 4%;
+    margin-left: 45%;
+    margin-bottom: 5%;
+  }
+  button:hover {
+    background-color: #0c170d;
+  }
+ .signup{
+    margin-top: 1.5cm;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 2%;
+    font-weight: bold;
+ }
+ .signup a{
+    color: rgb(15, 16, 1);
+ }
+
+ .error-message{
+  color:black;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 2%;
+ }
+
+

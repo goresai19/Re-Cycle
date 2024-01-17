@@ -1,0 +1,54 @@
+.Form_tele {
+    width: 50px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .message {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+  }
+  
+  select {
+    margin-left: 33%;
+    font-size: 20px;
+    position: relative;
+    margin-left: 35.5%;
+    margin-right: auto ;
+    text-align: center;
+    border-radius: 0.3cm;
+    height: 40px;
+    width: 500px;
+    margin-bottom: 3%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+ 
+button {
+    background-color: #080000; /* Green */
+    color: rgb(255, 255, 247);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 180px;
+    height: 45px;
+    margin-top: 4%;
+    margin-left: 45%;
+    margin-bottom: 5%;
+  }
+  button:hover {
+    background-color: #767e76;
+  }
+  Link{
+    text-decoration:none;
+    color: aliceblue;
+  }
+
+
+  
